@@ -10,3 +10,5 @@
 ## Back-end Pages (Accounts and Products)
 ![Acc](Ex/AccountSet.png)
 ![Pro](Ex/ProductSet.png)
+## Ex. Test API via Postman
+![API](Ex/API.png)
