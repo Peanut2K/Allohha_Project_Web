@@ -2,7 +2,7 @@ const API_URL = "http://localhost:3030/product"
 
 function getProductIdFromUrl() {
     const urlParams = new URLSearchParams(window.location.search);
-    return urlParams.get('id');x
+    return urlParams.get('id');
 }
 
 document.addEventListener("DOMContentLoaded", async function () {
