@@ -1,7 +1,7 @@
 # Project web using html css js node.js and MySQL
-อันนี้เป็นโปรเจคในรายวิชาเว็บที่ผมเป็นคนทำแทบทั้งหมดเลยครับ ซึ่งได้มีการใช้ ChatGPT รวมถึงค้นหาใน Google ในการช่วยทำ Project นี้ครับ แต่ผ่านการ review code ด้วยตัวเองแล้วครับ
-## ตัวอย่างบางส่วนพร้อมคำอธิบายในหน้าต่างๆครับ
-อันนี้จะเป็นหน้า login ที่มีการเช็ค username และ password ที่มีใน database ครับ และก็จะมีการใช้ API reCAPTCHA ของ Google เพื่อเช็คว่าเป็นคนไหมด้วยครับ
+This is a project for my web development course, and I was responsible for almost the entire development myself.
+## Here are some example pages along with explanations:
+This is the login page, which checks the username and password against those stored in the database. It also uses Google’s reCAPTCHA API to verify that the user is human.
 ![login](Ex/login.png)
 ## Home Page
 ![Home](Ex/home.png)
